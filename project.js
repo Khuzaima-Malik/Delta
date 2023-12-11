@@ -29,8 +29,8 @@ console.log('git add .')
 console.log('to add the comment of file')
 console.log('git commit -m write any text in comas')
 
-console.log('to push these changes on github')
-console.log('git push --set-upstream origin  branchName') //this code is used one time another time we write
+console.log('to push new branches on github')
+console.log('git push --set-upstream origin  branchName') //this code is used for new branches
 console.log('git push')
 
 console.log('to put new file on github')
@@ -51,4 +51,8 @@ console.log('git checkout  branchName')
 console.log('to delete the branch')
 console.log('git -d  branchName')
 
-console.log('Kia hal hai')
+console.log('to  compare two branches')
+console.log('git diff')
+
+console.log('to merge two branches')
+console.log('git merge')
