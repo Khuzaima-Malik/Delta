@@ -21,7 +21,10 @@ console.log('to see the status of existing file')
 console.log('git status')
 
 console.log('to add the files of folder into github')
-console.log('git add') //space name of a file or we choose all files put .
+console.log('git add the file name')
+
+console.log('to add all files in the folder')
+console.log('git add .')
 
 console.log('to add the comment of file')
 console.log('git commit -m write any text in comas')
