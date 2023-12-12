@@ -56,3 +56,8 @@ console.log('git diff')
 
 console.log('to merge two branches')
 console.log('git merge')
+
+console.log('this is used to get information from github to vs code')
+console.log('git pull origin main')
+
+console.log('kia hai')
