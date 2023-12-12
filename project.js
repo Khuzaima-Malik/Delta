@@ -60,4 +60,6 @@ console.log('git merge')
 console.log('this is used to get information from github to vs code')
 console.log('git pull origin main')
 
-console.log('kia hai')
+console.log('to reset the commit go to [git log] and copy the number of the commit')
+console.log('git reset commit paste the copied number')
+
