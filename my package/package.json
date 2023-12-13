@@ -1,0 +1,17 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "This is the package that am i making",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bmy-package.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khuzaima Asif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "figlet": "^1.7.0",
+    "give-me-a-joke": "^0.5.1",
+    "random-words": "^2.0.0"
+  }
+}
